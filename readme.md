@@ -1,5 +1,3 @@
-hi, hello everyone 
-
 Student Math Score Predictor
 
 Project Description : This is a simple Machine Learning project that predicts a student's math score using their reading and writing scores.
